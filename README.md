@@ -1,8 +1,18 @@
 <h3>A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Vue** and **Node JS**
-
+- 🌱 I'm developing big projects related to **Vue** and **NodeJs**
+- 📦 I also provide the deploy processes of my projects
 - 📫 How to reach me **ahmetilhan.dev@gmail.com**
+* HTML5
+* CSS3, SASS, SCSS, LESS
+* JavaScript, ES5, ES6
+* Vue3, React
+* NodeJs
+* Mongodb
+* NPM, YARN
+* Git, Github, Bitbucket
+* Docker, Heroku, Netlify
+* Jira, Trello
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
