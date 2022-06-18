@@ -14,8 +14,9 @@
 * Docker, Heroku, Netlify
 * Jira, Trello
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetilhan24&theme=algolia)](https://github.com/ahmetilhan24
-https://github-readme-stats.vercel.app/api?username=ahmetilhan24&show_icons=true&theme=algolia)](https://github.com/ahmetilhan24
+[![ahmetilhan24 github stats](https://github-readme-stats.vercel.app/api?username=ahmetilhan24&show_icons=true&theme=algolia)](https://github.com/ahmetilhan24)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetilhan24&theme=algolia)](https://github.com/ahmetilhan24)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
