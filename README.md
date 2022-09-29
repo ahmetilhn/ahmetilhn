@@ -5,14 +5,16 @@
 - 📫 How to reach me **ahmetilhan.dev@gmail.com**
 * HTML5
 * CSS3, SASS, SCSS, LESS
-* JavaScript, ES5, ES6
-* Vue3, React
+* TypeScript, JavaScript, ES5, ES6
+* Vue, Nuxt, React
 * NodeJs
 * Mongodb
+# Jest, UnitTest
 * NPM, YARN
 * Git, Github, Bitbucket
 * Docker, Heroku, Netlify
 * Jira, Trello
+* Survicate, GTM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
