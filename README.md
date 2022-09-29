@@ -9,7 +9,7 @@
 * Vue, Nuxt, React
 * NodeJs
 * Mongodb
-# Jest, UnitTest
+* Jest, UnitTest
 * NPM, YARN
 * Git, Github, Bitbucket
 * Docker, Heroku, Netlify
