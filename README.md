@@ -1,4 +1,4 @@
-<h3>A passionate frontend developer</h3>
+<h3>A passionate Javascript and Frontend developer</h3>
 
 - 🌱 I'm developing big projects related to **Vue** and **NodeJs**
 - 📦 I also provide the deploy processes of my projects
