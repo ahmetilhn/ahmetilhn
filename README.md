@@ -16,7 +16,6 @@
 * Jira, Trello
 * Survicate, GTM
 
-<h3 align="left">Connect with me:</h3>
 <p align="left"> 
   Visitor Count<br> <br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
