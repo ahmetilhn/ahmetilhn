@@ -1,6 +1,6 @@
-<h3>A passionate Javascript and Frontend developer</h3>
+<h3>A passionate Javascript and Frontend Developer</h3>
 
-- 🌱 I'm developing big projects related to **Vue** and **NodeJs**
+- 🌱 I'm developing projects related to **Javascript** , **NodeJs** , **Vue** and **React**
 - 📦 I also provide the deploy processes of my projects
 - 📫 How to reach me **ahmetilhan.dev@gmail.com**
 * HTML5
