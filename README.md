@@ -17,6 +17,4 @@
 * Survicate, GTM
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 ![Total Count](https://profile-counter.glitch.me/ahmetilhan24/count.svg)
-</p>
