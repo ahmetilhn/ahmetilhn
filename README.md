@@ -7,8 +7,7 @@
 * CSS3, SASS, SCSS, LESS
 * TypeScript, JavaScript, ES5, ES6
 * Vue, Nuxt, React
-* NodeJs
-* Python
+* NodeJs, Python, PHP
 * Mongodb
 * Jest, UnitTest
 * NPM, YARN
