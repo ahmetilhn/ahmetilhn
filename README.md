@@ -3,12 +3,12 @@
 - 🌱 I'm developing projects related to **Javascript** , **NodeJs** , **Vue** and **React**
 - 📦 I also provide the deploy processes of my projects
 - 📫 How to reach me **ahmetilhan.dev@gmail.com**
-* HTML5
-* CSS3, SASS, SCSS, LESS
-* TypeScript, JavaScript, ES5, ES6
+* HTML5, CSS3, SASS, SCSS
+* TypeScript, JavaScript
 * Vue, Nuxt, React
-* NodeJs, Python, PHP
-* Mongodb
+* Java, NodeJS
+* Mongodb, PostgreSQL, MySQL
+* Rest Api, Api Security
 * Jest, UnitTest
 * NPM, YARN
 * Git, Github, Bitbucket
